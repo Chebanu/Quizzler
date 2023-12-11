@@ -1,0 +1,26 @@
+[
+	{
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"LevelName": "A1"
+	},
+	{
+		"LevelId": "4802a577-ed4c-4646-ad2b-b9604ceac574",
+		"LevelName": "A2"
+	},
+	{
+		"LevelId": "47538f2b-04ee-4bcd-bc2e-810d462081bd",
+		"LevelName": "B1"
+	},
+	{
+		"LevelId": "026d2af9-62f1-441f-ab29-23ad4a1aae97",
+		"LevelName": "B2"
+	},
+	{
+		"LevelId": "f3323772-4d35-4d27-a1a3-f86453c5e6df",
+		"LevelName": "C1"
+	},
+	{
+		"LevelId": "ebd87f8f-2dfa-482d-bbb8-17d6ba5d2637",
+		"LevelName": "C2"
+	}
+]

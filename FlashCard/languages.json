@@ -1,0 +1,26 @@
+[
+	{
+		"LanguageId": "54eae254-972b-4ce1-b08b-192f1ac2567f",
+		"LanguageName": "English"
+	},
+	{
+		"LanguageId": "33526ce8-8842-49d6-8780-ba61be8069ab",
+		"LanguageName": "French"
+	},
+	{
+		"LanguageId": "8703ae8f-2886-46e9-a0ec-4a28b29ceb5a",
+		"LanguageName": "German"
+	},
+	{
+		"LanguageId": "14e4d292-a580-4a4d-9b0c-ed49a85179d2",
+		"LanguageName": "Spanish"
+	},
+	{
+		"LanguageId": "92965b17-28a6-4336-b13f-d1ff1c1b1444",
+		"LanguageName": "Italian"
+	},
+	{
+		"LanguageId": "c840e6bf-2cfb-4eaf-8322-95bc9f70b975",
+		"LanguageName": "Russian"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"WordId": "11237266-725e-45b2-b426-7abee30acfde",
+		"WordText": "Hello",
+		"LanguageId": "54eae254-972b-4ce1-b08b-192f1ac2567f",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	},
+	{
+		"WordId": "df279714-8907-4800-ac56-2ea35b84f467",
+		"WordText": "Bonjour",
+		"LanguageId": "33526ce8-8842-49d6-8780-ba61be8069ab",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	},
+	{
+		"WordId": "f96065c6-6d30-430a-8c65-3ce715d6574c",
+		"WordText": "Guten Tag",
+		"LanguageId": "8703ae8f-2886-46e9-a0ec-4a28b29ceb5a",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	},
+	{
+		"WordId": "fe8dcbad-1001-4d63-8eca-a97bef5ec6ec",
+		"WordText": "Hola",
+		"LanguageId": "14e4d292-a580-4a4d-9b0c-ed49a85179d2",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	},
+	{
+		"WordId": "cd2225d1-a9d1-454f-af85-eac853bbd45c",
+		"WordText": "Ciao",
+		"LanguageId": "92965b17-28a6-4336-b13f-d1ff1c1b1444",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	},
+	{
+		"WordId": "b977b0c1-1284-4f3a-8329-9040965386ad",
+		"WordText": "Привет",
+		"LanguageId": "c840e6bf-2cfb-4eaf-8322-95bc9f70b975",
+		"LevelId": "495996f4-ee53-4769-a942-832a706b8178",
+		"ImageUrl": ""
+	}
+]

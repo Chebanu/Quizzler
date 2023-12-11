@@ -1,0 +1,13 @@
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.AssemblyInfoInputs.cache
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.AssemblyInfo.cs
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.sourcelink.json
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\bin\Debug\net8.0\FlashCards.Contracts.deps.json
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\bin\Debug\net8.0\FlashCards.Contracts.dll
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\bin\Debug\net8.0\FlashCards.Contracts.pdb
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.csproj.AssemblyReference.cache
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.dll
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\refint\FlashCards.Contracts.dll
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\FlashCards.Contracts.pdb
+C:\Users\0alex\source\repos\FlashCard\FlashCards.Contracts\obj\Debug\net8.0\ref\FlashCards.Contracts.dll

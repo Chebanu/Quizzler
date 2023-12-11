@@ -1,0 +1,22 @@
+[
+	{
+		"TranslationId": "ee963a82-4a19-49e4-84aa-8939ea4b9237",
+		"SourceWordId": "11237266-725e-45b2-b426-7abee30acfde",
+		"TargetWordId": "df279714-8907-4800-ac56-2ea35b84f467"
+	},
+	{
+		"TranslationId": "45657d21-a8ef-4ea6-87a9-208a201b4f98",
+		"SourceWordId": "f96065c6-6d30-430a-8c65-3ce715d6574c",
+		"TargetWordId": "fe8dcbad-1001-4d63-8eca-a97bef5ec6ec"
+	},
+	{
+		"TranslationId": "1ebac63e-6f19-4e3c-88d0-383083be1336",
+		"SourceWordId": "11237266-725e-45b2-b426-7abee30acfde",
+		"TargetWordId": "b977b0c1-1284-4f3a-8329-9040965386ad"
+	},
+	{
+		"TranslationId": "bdabcef1-c344-47d3-a4a8-e23fc03a1200",
+		"SourceWordId": "b977b0c1-1284-4f3a-8329-9040965386ad",
+		"TargetWordId": "11237266-725e-45b2-b426-7abee30acfde"
+	}
+]
